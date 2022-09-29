@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+.plan1 {
+  border-bottom: 3px double #5b5b5b;
+  width: 326px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+#plan th,
+#plan td {
+  border: 1px solid #222222;
+}
+#plan {
+  border-collapse: collapse;
+}
+
+#plan .blank1 {
+  width: 100px;
+}
+
+#plan .blank2 {
+  width: 100px;
+}
+
+#plan .investment1 {
+  width: 5px;
+}
+
+#plan th {
+  padding: 10px;
+}
+
+#plan .name18 {
+  height: 170px;
+}
+
+#plan .width1 {
+  width: 130px;
+}
+#plan .width2 {
+  width: 230px;
+}
